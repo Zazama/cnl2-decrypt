@@ -1,8 +1,15 @@
 {
   "name": "cnl2-decrypt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "node.js module to decrypt click'n'load 2 links",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zazama/cnl2-decrypt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zazama/cnl2-decrypt/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
